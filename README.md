@@ -5,7 +5,9 @@ A clean, responsive login and registration interface built with HTML, CSS, and J
 
 ## Live Demo
 
-Visit the live website: **[Open Login & Registration](https://YOUR-USERNAME.github.io/login-registration-project/)**
+
+Visit the live website: **[Open Login & Registration](https://abdulrazaqismail333-debug.github.io/login-registration-project/)**
+
 
 > Replace `YOUR-USERNAME` with your actual GitHub username.
 
